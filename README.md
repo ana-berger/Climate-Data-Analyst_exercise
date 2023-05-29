@@ -16,7 +16,7 @@ The task description can be found in the file ```Documents/Task_description.docx
 This script modifies the netCDF file by adding new attributes. These attributes are configurable through 
 two config files ```global_attrs_config``` and ```var_attrs_config```.
 
-The answer for Task 3 is also in the Documents folder.
+The answer for Task 3 is in the Documents folder, as well as the processed file as a result of running the script.
 
 ## Location of Original Dataset
 
