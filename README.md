@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ## Using the Script
 
 ```bash
-usage: python add_metadata_CCAM_temp.py
+usage: python add_metadata_CCAM_AirTemp.py
 ```
 Creates updated NetCDF file from CSIRO with added metadata.
 ```
